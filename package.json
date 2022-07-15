@@ -1,0 +1,15 @@
+{
+  "name": "book-management-project",
+  "version": "1.0.0",
+  "description": "Book Management Backend with User Authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roshaan",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.2"
+  }
+}
